@@ -60,8 +60,11 @@ Ouvrez ensuite votre navigateur à l’adresse [http://localhost:8501](http://lo
 
 ## Auteur
 
-- **Nom** : Souad El Meslahy
-- **Contact** : s.elmeslahy6339@uca.ac.ma
+- Nom : Souad El Meslahy
+- Filière :INF-S4
+- Gr:02
+- N°Appogée:2022792
+- Contact: s.elmeslahy6339@uca.ac.ma
 
 ---
 
