@@ -37,7 +37,7 @@ GROUP BY
     t.libelle;
 
 -- e. Afficher la liste des chambres qui ne sont pas réservées pour une période donnée
--- Exemple : chambres libres entre le 2025-06-15 et le 2025-06-18
+
 SELECT *
 FROM Chambre ch
 WHERE ch.id NOT IN (
@@ -47,5 +47,4 @@ WHERE ch.id NOT IN (
       AND r.date_fin >= '2025-06-15'
 );
 
--- f. Qu’est-ce que SQLite, quelle différence avec MySQL ?
--- Réponse : cf. le document PDF
+
